@@ -131,11 +131,10 @@ h1,h2,h3,h4,h5{
     
 }
 .menu__link:hover{
-     background-color: #DE423A;
+     background-color: #d2e006;
 }
 .menu__link--select{
-    background-color: #DE423A;
-    
+    background-color: #d2e006;
 }
 .mostrar{
     height: 210px;
@@ -176,7 +175,7 @@ h1,h2,h3,h4,h5{
 
 /*----------------Estilos Principales------------------*/
 .group--color .container{
-	background-color: #DE423A;
+	background-color: #d2e006;
 	padding: 10px;
 	text-align: center;
 	
@@ -199,7 +198,7 @@ h1,h2,h3,h4,h5{
 	text-align: center;
 	text-decoration: none;
 	width: 120px;
-	background: #DE423A;
+	background: #d2e006;
 	color: #fff;
 	padding:10px;
 	margin: 10px auto;
