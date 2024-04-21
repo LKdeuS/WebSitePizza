@@ -1,0 +1,20 @@
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mapa{
+    width: 60%;
+}
+.imagen {
+    width: 40%; /* Ajusta el tamaño de la imagen según tus necesidades */
+}
+
+.imgg{
+    display: flex;
+    justify-content: end;
+}
+
+.color{
+    background-color: rgb(255, 255, 255);
+}
