@@ -1,20 +1,21 @@
 .contenedor {
     display: flex;
-    justify-content: space-between;
-}
-
-.mapa{
-    width: 60%;
-}
-.imagen {
-    width: 40%; 
+    justify-content: center;
 }
 
 .imgg{
     display: flex;
-    justify-content: end;
+    justify-content: center;
 }
 
 .color{
     background-color: rgb(255, 255, 255);
+}
+
+.titulo{
+    text-align: center;
+}
+
+.color{
+    background-color: #d2e006;
 }
