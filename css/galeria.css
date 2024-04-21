@@ -12,19 +12,19 @@
   }
   
   .card-img-top {
-    height: 200px; /* Ajusta la altura según tus necesidades */
+    height: 200px; 
     object-fit: cover;
   }
 
   .carousel-item img {
     display: block;
-    max-height: 500px; /* Ajusta este valor según tus necesidades */
+    max-height: 500px; 
     margin: 0 auto;
     object-fit: cover;
   }
   
   .carousel {
-    max-width: 800px; /* Ajusta este valor según tus necesidades */
+    max-width: 800px; 
     margin: 0 auto;
   }
 
